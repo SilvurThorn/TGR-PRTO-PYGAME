@@ -1,13 +1,14 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/BILLPC2684)\
+This repository was originally archived by SilvurThorn on Feb 19, 2024.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SilvurThorn)\
 ![alt text](http://koranva-forest.com/TheGameRazer/TGR-logo(8x).png)
 
-# We moved over to https://github.com/BILLPC2684/TGR-PRTO-RAYLIB
+# We moved over to https://github.com/SilvurThorn/TGR-PRTO-RAYLIB
 
 # TGR-PRTO-PYGAME
 TheGameRazer is a modern, retro 16-bit emulator(Fantasy Console) made in Python using PyGame\
 this is still in prototype stages...
 
-# goto BILLPC2684/TGR-PRTO-RAYLIB
 
 # Websites:
 Offical Website: https://Koranva-Forest.com \
@@ -30,7 +31,7 @@ Offical ROMs: ~~https://Koranva-Forest.com/TheGameRazer/forums~~ the Forums isn'
 ## NOTE: if the emulator errors, crashes or glitch out, check your ROM before reporting(if someone else made the ROM then contact them)
 
 # Why does GitHub updates take so long?
- - i myself(BILLPC2684) is mostly the only one working on this project, so it's a slow process
+ - i myself(SilvurThorn) is mostly the only one working on this project, so it's a slow process
  - life issues and school blocking from getting work done(plus not to mention other projects)
 ## PLEASE BE PATIENT... Updates will come ASAP on schedule(hopefully)
 
